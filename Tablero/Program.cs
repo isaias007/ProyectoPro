@@ -20,7 +20,7 @@ namespace Tablero
 
 
 
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Magenta;
 
             if (File.Exists("../../data/Menu.txt"))
             {
@@ -162,6 +162,7 @@ namespace Tablero
 
                 if (P1.vida == false)
                 {
+                    Console.ForegroundColor = ConsoleColor.Magenta;
                     Console.Clear();
                     if (File.Exists("../../data/GameOver.txt"))
                     {
