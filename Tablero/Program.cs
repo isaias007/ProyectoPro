@@ -39,6 +39,18 @@ namespace Tablero
                     Console.Clear();
                     juego();
                 }
+                else if (pantalla.Key == ConsoleKey.I)
+                {
+                    P1 = new Jugador(150, 150, miTablero);
+                    Console.Clear();
+                    P1.Instrucciones();
+                    pantalla = Console.ReadKey(true);
+                    if (pantalla.Key == ConsoleKey.Enter)
+                    {
+                        Console.Clear();
+                        juego();
+                    }
+                }
 
             }
 

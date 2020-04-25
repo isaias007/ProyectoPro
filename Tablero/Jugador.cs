@@ -271,7 +271,17 @@ namespace Tablero
             Console.WriteLine("La salida a encontrar 'Puede que este debajo de un item'");
         }
         
+        public void Instrucciones()
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.SetCursorPosition(0,12);
+            Console.WriteLine("INSTRUCCIONES:");
+            Console.SetCursorPosition(0,15);
+            Console.WriteLine("Los movimientos son con W,A,S,D");
+            Console.WriteLine("Los objetos se recogen con el ESPACIO");
+            Console.WriteLine("Los objetos se utilizan con el ENTER eligiendolos en el inventario con las flechas de movimiento ARRIBA Y ABAJO");
 
+        }
 
     }
 }
