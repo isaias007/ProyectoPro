@@ -94,7 +94,7 @@ namespace Tablero
             Console.SetCursorPosition(20, 10);
 
          
-            Console.Write("@");
+            Console.Write("§");
             
             
         }
@@ -139,36 +139,7 @@ namespace Tablero
             }
         }
 
-        public void MueveArribaIzquierda()
-        {
-            x=x-movimiento;
-            y=y-movimiento;
-
-            //if (mapa.isSafe(x + 1, y) == true && mapa.celdas[x + 1, y].isWalkable())
-            //{
-            //    x++;
-            //}
-
-
-        }
-        public void MueveArribaDerecha()
-        {
-            x=x+movimiento;
-            y=y-movimiento;
-            
-        }
-        public void MueveAbajoDerecha()
-        {
-            x=x+movimiento;
-            y=y+movimiento;
-            
-        }
-        public void MueveAbajoIzquierda()
-        {
-            x=x-movimiento;
-            y=y+movimiento;
-           
-        }
+       
 
 
 

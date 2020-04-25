@@ -150,7 +150,7 @@ namespace Tablero
             {
                 Console.BackgroundColor = ConsoleColor.Black;
                 Console.ForegroundColor = ConsoleColor.Cyan;
-                Console.Write("F");
+                Console.Write("╬");
                 Console.ForegroundColor = ConsoleColor.Cyan;
             }
 
