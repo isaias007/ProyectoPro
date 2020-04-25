@@ -35,3 +35,4 @@
 
 
 Press Enter to play.
+Press I for instruccions.
