@@ -10,7 +10,7 @@ namespace Tablero
         public int duracionItem;
         public PocionV()
         {
-            this.duracionItem = 3;
+            this.duracionItem = 5;
         }
 
         public override void display()

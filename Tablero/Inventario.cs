@@ -82,7 +82,7 @@ namespace Tablero
                 }
                 else if (objeto is Monedas)
                 {
-                    J.Puntaje= J.Puntaje + 100;
+                    J.Puntaje= J.Puntaje + 500;
                     this.BorrarItem(ItemIdex);
                     return true;
                 }
