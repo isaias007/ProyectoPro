@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "D:\\DATOSUSUARIOS\\AlumGS\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\DATOSUSUARIOS\\AlumGS\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\bin\Debug\netcoreapp3.1\Tablero.exe
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\bin\Debug\netcoreapp3.1\Tablero.deps.json
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\bin\Debug\netcoreapp3.1\Tablero.runtimeconfig.json
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\bin\Debug\netcoreapp3.1\Tablero.runtimeconfig.dev.json
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\bin\Debug\netcoreapp3.1\Tablero.dll
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\bin\Debug\netcoreapp3.1\Tablero.pdb
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\obj\Debug\netcoreapp3.1\Tablero.csprojAssemblyReference.cache
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\obj\Debug\netcoreapp3.1\Tablero.AssemblyInfoInputs.cache
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\obj\Debug\netcoreapp3.1\Tablero.AssemblyInfo.cs
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\obj\Debug\netcoreapp3.1\Tablero.dll
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\obj\Debug\netcoreapp3.1\Tablero.pdb

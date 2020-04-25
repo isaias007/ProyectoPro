@@ -1,0 +1,22 @@
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\bin\Debug\netcoreapp3.1\Alquimista.exe
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\bin\Debug\netcoreapp3.1\Alquimista.deps.json
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\bin\Debug\netcoreapp3.1\Alquimista.runtimeconfig.json
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\bin\Debug\netcoreapp3.1\Alquimista.runtimeconfig.dev.json
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\bin\Debug\netcoreapp3.1\Alquimista.dll
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\bin\Debug\netcoreapp3.1\Alquimista.pdb
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\obj\Debug\netcoreapp3.1\Alquimista.csprojAssemblyReference.cache
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\obj\Debug\netcoreapp3.1\Alquimista.AssemblyInfoInputs.cache
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\obj\Debug\netcoreapp3.1\Alquimista.AssemblyInfo.cs
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\obj\Debug\netcoreapp3.1\Alquimista.dll
+D:\DATOSUSUARIOS\AlumGS\source\repos\Tablero\obj\Debug\netcoreapp3.1\Alquimista.pdb
+H:\Curso DAW\PRO\Tablero\bin\Debug\netcoreapp3.1\Alquimista.exe
+H:\Curso DAW\PRO\Tablero\bin\Debug\netcoreapp3.1\Alquimista.deps.json
+H:\Curso DAW\PRO\Tablero\bin\Debug\netcoreapp3.1\Alquimista.runtimeconfig.json
+H:\Curso DAW\PRO\Tablero\bin\Debug\netcoreapp3.1\Alquimista.runtimeconfig.dev.json
+H:\Curso DAW\PRO\Tablero\bin\Debug\netcoreapp3.1\Alquimista.dll
+H:\Curso DAW\PRO\Tablero\bin\Debug\netcoreapp3.1\Alquimista.pdb
+H:\Curso DAW\PRO\Tablero\obj\Debug\netcoreapp3.1\Alquimista.csprojAssemblyReference.cache
+H:\Curso DAW\PRO\Tablero\obj\Debug\netcoreapp3.1\Alquimista.AssemblyInfoInputs.cache
+H:\Curso DAW\PRO\Tablero\obj\Debug\netcoreapp3.1\Alquimista.AssemblyInfo.cs
+H:\Curso DAW\PRO\Tablero\obj\Debug\netcoreapp3.1\Alquimista.dll
+H:\Curso DAW\PRO\Tablero\obj\Debug\netcoreapp3.1\Alquimista.pdb
